@@ -1,5 +1,6 @@
 using BookAPI.Models;
 using BookAPI.Repositories;
+using BookAPI.Repositories.IEService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ builder.Services.AddDbContext<BookdbContext>();
 builder.Services.AddScoped<KonyvInterface, KonyvService>();
 builder.Services.AddScoped<NemzetisegInterface, NemzetisegService>();
 builder.Services.AddScoped<SzerzoInterface, SzerzoService>();
+builder.Services.AddScoped<IEmailInterface, EmailService>();
 
 // Add services to the container.
 

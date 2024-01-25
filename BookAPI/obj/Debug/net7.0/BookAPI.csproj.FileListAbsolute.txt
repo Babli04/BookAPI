@@ -41,3 +41,9 @@ C:\Users\orosz\source\repos\BookAPI\BookAPI\obj\Debug\net7.0\refint\BookAPI.dll
 C:\Users\orosz\source\repos\BookAPI\BookAPI\obj\Debug\net7.0\BookAPI.pdb
 C:\Users\orosz\source\repos\BookAPI\BookAPI\obj\Debug\net7.0\BookAPI.genruntimeconfig.cache
 C:\Users\orosz\source\repos\BookAPI\BookAPI\obj\Debug\net7.0\ref\BookAPI.dll
+C:\Users\orosz\source\repos\BookAPI\BookAPI\obj\Debug\net7.0\BookAPI.sourcelink.json
+C:\Users\orosz\source\repos\BookAPI\BookAPI\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\orosz\source\repos\BookAPI\BookAPI\bin\Debug\net7.0\MailKit.dll
+C:\Users\orosz\source\repos\BookAPI\BookAPI\bin\Debug\net7.0\MimeKit.dll
+C:\Users\orosz\source\repos\BookAPI\BookAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\orosz\source\repos\BookAPI\BookAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
